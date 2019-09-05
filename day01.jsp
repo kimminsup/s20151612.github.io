@@ -2,10 +2,10 @@
 <!DOCTYPE HTML> <!-- hello.jsp -->
 <html>
 <head>
-	<meta charset="utf-8">
+	<meta http-equiv="Content-Type"content="text/html; charset="utf-8">
 	<title>hello jsp</title>
 </head>
 <body>
-<% out.println("20151612 김민섭"); %>
+	<% out.println("20151612 김민섭"); %>
 </body>
 </html>
